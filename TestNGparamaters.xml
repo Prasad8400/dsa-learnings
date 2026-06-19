@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="LoginTest">
+    <parameter name="username" value="Prasad"/>
+    <parameter name="password" value="Naruto123"/>
+    <classes>
+      <class name="DAY25.TestNGParameters"/>
+    </classes>
+  </test>
+</suite>
