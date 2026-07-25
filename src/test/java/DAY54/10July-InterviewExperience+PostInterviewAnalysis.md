@@ -8,7 +8,7 @@ You did:
 
 ```text
 
-1. Actual TCS interview ✅
+1. Actual ORG interview ✅
 
 2. Live coding under pressure ✅
 
